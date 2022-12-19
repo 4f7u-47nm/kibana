@@ -550,7 +550,7 @@
     "papaparse": "^5.2.0",
     "pbf": "3.2.1",
     "pdfjs-dist": "^2.13.216",
-    "pdfmake": "^0.2.5",
+    "pdfmake": "^0.2.7",
     "peggy": "^1.2.0",
     "pluralize": "3.1.0",
     "polished": "^3.7.2",
