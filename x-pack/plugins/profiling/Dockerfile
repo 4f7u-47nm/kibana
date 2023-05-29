@@ -1,4 +1,4 @@
-FROM ubuntu:22.04
+FROM ubuntu:kinetic
 
 RUN rm /bin/sh && ln -s /bin/bash /bin/sh
 
