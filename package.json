@@ -410,7 +410,7 @@
     "@opentelemetry/sdk-metrics-base": "^0.30.0",
     "@opentelemetry/semantic-conventions": "^1.4.0",
     "@reduxjs/toolkit": "1.7.2",
-    "@slack/webhook": "^5.0.4",
+    "@slack/webhook": "^7.0.4",
     "@tanstack/react-query": "^4.2.1",
     "@tanstack/react-query-devtools": "^4.2.1",
     "@turf/along": "6.0.1",
